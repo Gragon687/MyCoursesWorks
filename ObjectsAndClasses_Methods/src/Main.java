@@ -7,7 +7,5 @@ public class Main {
         basket.print("Milk");
         double weight =basket.getTotalWeight();
         System.out.println(weight);
-
-
     }
 }
